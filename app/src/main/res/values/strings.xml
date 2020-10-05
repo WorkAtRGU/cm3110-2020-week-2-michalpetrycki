@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RGU Weather</string>
+
+    <string name="tv_enter_location">Enter a location:</string>
+    <string name="btn_get_forecast">Get forecast</string>
+
+    <!-- for the RandomWeatherForecastGetter -->
+    <string name="weather_sun">sunny</string>
+    <string name="weather_rain">rain</string>
+    <string name="weather_snow">snow</string>
+    <string name="weather_windy">windy</string>
+</resources>
