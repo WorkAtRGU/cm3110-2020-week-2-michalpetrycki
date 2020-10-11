@@ -9,4 +9,15 @@
     <string name="weather_rain">rain</string>
     <string name="weather_snow">snow</string>
     <string name="weather_windy">windy</string>
+    <string name="tv_location_forecast">%1$s forecast</string>
+    <string name="tv_will_be_text">And it will be</string>
+    <string name="tv_weather_text" />
+    <string name="tv_min_temp_val">%1$d %2$s</string>
+    <string name="tv_min_temp_lbl">Min Temp</string>
+    <string name="tv_max_temp_lbl">Max Temp</string>
+    <string name="tv_max_temp_val">%1$d %2$s</string>
+    <string name="tv_date">%1$s</string>
+    <string name="tv_for">For</string>
+    <string name="tv_future_lbl">Select number of days in the future</string>
+    <string name="tv_bookmark">Bookmark Location</string>
 </resources>

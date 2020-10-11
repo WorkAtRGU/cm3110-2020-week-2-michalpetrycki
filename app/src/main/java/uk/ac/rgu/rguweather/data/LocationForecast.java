@@ -46,4 +46,5 @@ public class LocationForecast {
     public void setWeather(String weather) {
         this.weather = weather;
     }
+
 }
